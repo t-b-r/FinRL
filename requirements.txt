@@ -36,8 +36,8 @@ wheel>=0.33.6
 pre-commit
 
 #Jupyter
-pip install ipykernel
-pip install jupyterlab
-pip install notebook
+ipykernel
+jupyterlab
+notebook
 
 
