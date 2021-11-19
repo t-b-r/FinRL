@@ -34,3 +34,10 @@ wheel>=0.33.6
 
 #hooks
 pre-commit
+
+#Jupyter
+pip install ipykernel
+pip install jupyterlab
+pip install notebook
+
+
