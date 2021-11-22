@@ -10,13 +10,14 @@ matplotlib
 
 # Model Building Requirements
 scikit-learn>=0.21.0
-gym==0.19
+gym==0.17
 stable-baselines3[extra]
 ray[default]
 ray[tune]
 lz4
 tensorboardX
 gputil
+dm_tree
 
 # market data & paper trading API
 trading_calendars
